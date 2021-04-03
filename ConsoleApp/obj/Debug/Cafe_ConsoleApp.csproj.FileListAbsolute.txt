@@ -1,0 +1,10 @@
+G:\My Drive\GoldBadgeChallenges\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+G:\My Drive\GoldBadgeChallenges\ConsoleApp\bin\Debug\ConsoleApp.exe
+G:\My Drive\GoldBadgeChallenges\ConsoleApp\bin\Debug\ConsoleApp.pdb
+G:\My Drive\GoldBadgeChallenges\ConsoleApp\bin\Debug\Challenge_Librairy.dll
+G:\My Drive\GoldBadgeChallenges\ConsoleApp\bin\Debug\Challenge_Librairy.pdb
+G:\My Drive\GoldBadgeChallenges\ConsoleApp\obj\Debug\Cafe_ConsoleApp.csprojAssemblyReference.cache
+G:\My Drive\GoldBadgeChallenges\ConsoleApp\obj\Debug\Cafe_ConsoleApp.csproj.CoreCompileInputs.cache
+G:\My Drive\GoldBadgeChallenges\ConsoleApp\obj\Debug\Cafe_ConsoleApp.csproj.CopyComplete
+G:\My Drive\GoldBadgeChallenges\ConsoleApp\obj\Debug\ConsoleApp.exe
+G:\My Drive\GoldBadgeChallenges\ConsoleApp\obj\Debug\ConsoleApp.pdb

@@ -1,0 +1,6 @@
+G:\My Drive\GoldBadgeChallenges\Challenge_Librairy\bin\Debug\Challenge_Librairy.dll
+G:\My Drive\GoldBadgeChallenges\Challenge_Librairy\bin\Debug\Challenge_Librairy.pdb
+G:\My Drive\GoldBadgeChallenges\Challenge_Librairy\obj\Debug\Cafe_Repository.csprojAssemblyReference.cache
+G:\My Drive\GoldBadgeChallenges\Challenge_Librairy\obj\Debug\Cafe_Repository.csproj.CoreCompileInputs.cache
+G:\My Drive\GoldBadgeChallenges\Challenge_Librairy\obj\Debug\Challenge_Librairy.dll
+G:\My Drive\GoldBadgeChallenges\Challenge_Librairy\obj\Debug\Challenge_Librairy.pdb

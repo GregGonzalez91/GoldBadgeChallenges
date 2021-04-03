@@ -1,0 +1,6 @@
+G:\My Drive\GoldBadgeChallenges\Claims_Repository\bin\Debug\Claims_Repository.dll
+G:\My Drive\GoldBadgeChallenges\Claims_Repository\bin\Debug\Claims_Repository.pdb
+G:\My Drive\GoldBadgeChallenges\Claims_Repository\obj\Debug\Claims_Repository.csprojAssemblyReference.cache
+G:\My Drive\GoldBadgeChallenges\Claims_Repository\obj\Debug\Claims_Repository.csproj.CoreCompileInputs.cache
+G:\My Drive\GoldBadgeChallenges\Claims_Repository\obj\Debug\Claims_Repository.dll
+G:\My Drive\GoldBadgeChallenges\Claims_Repository\obj\Debug\Claims_Repository.pdb

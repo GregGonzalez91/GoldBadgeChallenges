@@ -1,0 +1,13 @@
+G:\My Drive\GoldBadgeChallenges\Cafe_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+G:\My Drive\GoldBadgeChallenges\Cafe_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+G:\My Drive\GoldBadgeChallenges\Cafe_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+G:\My Drive\GoldBadgeChallenges\Cafe_UnitTest\bin\Debug\Cafe_UnitTest.dll
+G:\My Drive\GoldBadgeChallenges\Cafe_UnitTest\bin\Debug\Cafe_UnitTest.pdb
+G:\My Drive\GoldBadgeChallenges\Cafe_UnitTest\bin\Debug\Challenge_Librairy.dll
+G:\My Drive\GoldBadgeChallenges\Cafe_UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+G:\My Drive\GoldBadgeChallenges\Cafe_UnitTest\bin\Debug\Challenge_Librairy.pdb
+G:\My Drive\GoldBadgeChallenges\Cafe_UnitTest\obj\Debug\Cafe_UnitTest.csprojAssemblyReference.cache
+G:\My Drive\GoldBadgeChallenges\Cafe_UnitTest\obj\Debug\Cafe_UnitTest.csproj.CoreCompileInputs.cache
+G:\My Drive\GoldBadgeChallenges\Cafe_UnitTest\obj\Debug\Cafe_UnitTest.csproj.CopyComplete
+G:\My Drive\GoldBadgeChallenges\Cafe_UnitTest\obj\Debug\Cafe_UnitTest.dll
+G:\My Drive\GoldBadgeChallenges\Cafe_UnitTest\obj\Debug\Cafe_UnitTest.pdb

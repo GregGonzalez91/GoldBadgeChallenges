@@ -1,0 +1,10 @@
+G:\My Drive\GoldBadgeChallenges\Badge_App\bin\Debug\Badge_App.exe.config
+G:\My Drive\GoldBadgeChallenges\Badge_App\bin\Debug\Badge_App.exe
+G:\My Drive\GoldBadgeChallenges\Badge_App\bin\Debug\Badge_App.pdb
+G:\My Drive\GoldBadgeChallenges\Badge_App\bin\Debug\Badge_Repository.dll
+G:\My Drive\GoldBadgeChallenges\Badge_App\bin\Debug\Badge_Repository.pdb
+G:\My Drive\GoldBadgeChallenges\Badge_App\obj\Debug\Badge_App.csprojAssemblyReference.cache
+G:\My Drive\GoldBadgeChallenges\Badge_App\obj\Debug\Badge_App.csproj.CoreCompileInputs.cache
+G:\My Drive\GoldBadgeChallenges\Badge_App\obj\Debug\Badge_App.csproj.CopyComplete
+G:\My Drive\GoldBadgeChallenges\Badge_App\obj\Debug\Badge_App.exe
+G:\My Drive\GoldBadgeChallenges\Badge_App\obj\Debug\Badge_App.pdb

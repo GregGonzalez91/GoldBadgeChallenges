@@ -1,0 +1,10 @@
+G:\My Drive\GoldBadgeChallenges\Claims_App\bin\Debug\Claims_App.exe.config
+G:\My Drive\GoldBadgeChallenges\Claims_App\bin\Debug\Claims_App.exe
+G:\My Drive\GoldBadgeChallenges\Claims_App\bin\Debug\Claims_App.pdb
+G:\My Drive\GoldBadgeChallenges\Claims_App\bin\Debug\Claims_Repository.dll
+G:\My Drive\GoldBadgeChallenges\Claims_App\bin\Debug\Claims_Repository.pdb
+G:\My Drive\GoldBadgeChallenges\Claims_App\obj\Debug\Claims_App.csprojAssemblyReference.cache
+G:\My Drive\GoldBadgeChallenges\Claims_App\obj\Debug\Claims_App.csproj.CoreCompileInputs.cache
+G:\My Drive\GoldBadgeChallenges\Claims_App\obj\Debug\Claims_App.csproj.CopyComplete
+G:\My Drive\GoldBadgeChallenges\Claims_App\obj\Debug\Claims_App.exe
+G:\My Drive\GoldBadgeChallenges\Claims_App\obj\Debug\Claims_App.pdb

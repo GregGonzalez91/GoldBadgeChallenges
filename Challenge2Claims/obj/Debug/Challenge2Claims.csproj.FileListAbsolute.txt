@@ -1,0 +1,14 @@
+C:\Users\Greg\source\repos\GoldBadgeChallenges\Challenge2Claims\obj\Debug\Challenge2Claims.csprojAssemblyReference.cache
+C:\Users\Greg\source\repos\GoldBadgeChallenges\Challenge2Claims\obj\Debug\Challenge2Claims.csproj.CoreCompileInputs.cache
+C:\Users\Greg\source\repos\GoldBadgeChallenges\Challenge2Claims\bin\Debug\Challenge2Claims.exe.config
+C:\Users\Greg\source\repos\GoldBadgeChallenges\Challenge2Claims\bin\Debug\Challenge2Claims.exe
+C:\Users\Greg\source\repos\GoldBadgeChallenges\Challenge2Claims\bin\Debug\Challenge2Claims.pdb
+C:\Users\Greg\source\repos\GoldBadgeChallenges\Challenge2Claims\obj\Debug\Challenge2Claims.exe
+C:\Users\Greg\source\repos\GoldBadgeChallenges\Challenge2Claims\obj\Debug\Challenge2Claims.pdb
+G:\My Drive\GoldBadgeChallenges\Challenge2Claims\bin\Debug\Challenge2Claims.exe.config
+G:\My Drive\GoldBadgeChallenges\Challenge2Claims\bin\Debug\Challenge2Claims.exe
+G:\My Drive\GoldBadgeChallenges\Challenge2Claims\bin\Debug\Challenge2Claims.pdb
+G:\My Drive\GoldBadgeChallenges\Challenge2Claims\obj\Debug\Challenge2Claims.csprojAssemblyReference.cache
+G:\My Drive\GoldBadgeChallenges\Challenge2Claims\obj\Debug\Challenge2Claims.csproj.CoreCompileInputs.cache
+G:\My Drive\GoldBadgeChallenges\Challenge2Claims\obj\Debug\Challenge2Claims.exe
+G:\My Drive\GoldBadgeChallenges\Challenge2Claims\obj\Debug\Challenge2Claims.pdb

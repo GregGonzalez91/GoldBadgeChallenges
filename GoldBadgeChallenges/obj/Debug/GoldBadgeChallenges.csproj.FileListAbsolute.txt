@@ -1,0 +1,10 @@
+C:\Users\Greg\source\repos\GoldBadgeChallenges\GoldBadgeChallenges\bin\Debug\GoldBadgeChallenges.exe.config
+C:\Users\Greg\source\repos\GoldBadgeChallenges\GoldBadgeChallenges\bin\Debug\GoldBadgeChallenges.exe
+C:\Users\Greg\source\repos\GoldBadgeChallenges\GoldBadgeChallenges\bin\Debug\GoldBadgeChallenges.pdb
+C:\Users\Greg\source\repos\GoldBadgeChallenges\GoldBadgeChallenges\bin\Debug\Repository_App.dll
+C:\Users\Greg\source\repos\GoldBadgeChallenges\GoldBadgeChallenges\bin\Debug\Repository_App.pdb
+C:\Users\Greg\source\repos\GoldBadgeChallenges\GoldBadgeChallenges\obj\Debug\GoldBadgeChallenges.csprojAssemblyReference.cache
+C:\Users\Greg\source\repos\GoldBadgeChallenges\GoldBadgeChallenges\obj\Debug\GoldBadgeChallenges.csproj.CoreCompileInputs.cache
+C:\Users\Greg\source\repos\GoldBadgeChallenges\GoldBadgeChallenges\obj\Debug\GoldBadgeChallenges.csproj.CopyComplete
+C:\Users\Greg\source\repos\GoldBadgeChallenges\GoldBadgeChallenges\obj\Debug\GoldBadgeChallenges.exe
+C:\Users\Greg\source\repos\GoldBadgeChallenges\GoldBadgeChallenges\obj\Debug\GoldBadgeChallenges.pdb
