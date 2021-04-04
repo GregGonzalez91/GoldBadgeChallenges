@@ -16,39 +16,40 @@ namespace Claims_App
             string userInput = "";
             while (userInput != "4")
             {
+                Console.Clear();
                 Console.WriteLine("What would you like to do?");
                 Console.WriteLine("1. See all claims");
                 Console.WriteLine("2. Take care of a claim");
                 Console.WriteLine("3. Enter a new claim");
                 Console.WriteLine("4. Exit");
-                Console.WriteLine("5. Run Test");
                 userInput = Console.ReadLine();
                 if (userInput == "1")
-                {
+                {Console.Clear();
                     Console.WriteLine(mr.View());
+                    Console.WriteLine("Press any key to continue...");
+                    Console.ReadLine();
                 }
                 else if (userInput == "2")
                 {
+                    Console.Clear();
                     processClaim();
                 }
                 else if (userInput == "3")
                 {
+                    Console.Clear();
                     addClaim();
                 }
                 else if (userInput == "4")
-                {
-                    Console.WriteLine("GoodBye!");
-                }
-                else if (userInput == "5")
-                {
-                    //Test.RunTest();
+                {Console.Clear();
+                    Console.WriteLine("GoodBye!\n");
+                    Console.WriteLine("Press any key to continue...");
+                    Console.ReadLine();
                 }
                 else
                 {
                     Console.WriteLine("Invalid Input. Please try again");
                 }
             }
-            Console.ReadLine();
         }
         public void Seed()
         {
@@ -61,12 +62,12 @@ namespace Claims_App
         }
         public void addClaim()
         {
-            Console.Write("Enter Claim ID#");
+            Console.Write("Enter Claim ID#: ");
             int claimID = Convert.ToInt32(Console.ReadLine());
             string claimType = "";
             do
             {
-                Console.Write("Enter a Claim Type. Car, Home or Theft");
+                Console.Write("Enter a Claim Type Car, Home or Theft: ");
                 claimType = Console.ReadLine().ToLower();
                 if (claimType != "car" && claimType != "home" && claimType != "theft")
                 {
@@ -76,13 +77,13 @@ namespace Claims_App
             while (claimType != "car" && claimType != "home" && claimType != "theft");
 
 
-            Console.Write("Enter the Claim description");
+            Console.Write("Enter the Claim description: ");
             string claimDescription = Console.ReadLine();
-            Console.Write("Enter the Claim Amount");
+            Console.Write("Enter the Claim Amount: ");
             double claimAmount = Convert.ToDouble(Console.ReadLine());
-            Console.Write("Enter Date of Accident");
+            Console.Write("Enter Date of Accident(MM/DD/YY): ");
             DateTime dateOfAccident = Convert.ToDateTime(Console.ReadLine());
-            Console.Write("Enter Date of Claim");
+            Console.Write("Enter Date of Claim(MM/DD/YY): ");
             DateTime dateOfClaim = Convert.ToDateTime(Console.ReadLine());
             DateTime deadLine = dateOfAccident.AddDays(30);
             if (dateOfClaim > deadLine)
@@ -106,8 +107,8 @@ namespace Claims_App
                 Console.WriteLine("Claim Type: " + currentClaim.claimType);
                 Console.WriteLine("Claim Description: " + currentClaim.claimDescription);
                 Console.WriteLine("Claim Amount: " + currentClaim.claimAmount);
-                Console.WriteLine("Claim Date Of Accident: " + string.Format("{0:MM/dd/yy}", currentClaim.dateOfAccident));
-                Console.WriteLine("Claim Date Of Claim: " + string.Format("{0:MM/dd/yy}", currentClaim.dateOfClaim));
+                Console.WriteLine("Claim Date Of Accident(MM/DD/YY): " + string.Format("{0:MM/dd/yy}", currentClaim.dateOfAccident));
+                Console.WriteLine("Claim Date Of Claim(MM/DD/YY): " + string.Format("{0:MM/dd/yy}", currentClaim.dateOfClaim));
                 Console.WriteLine("Do you want to deal with this claim now(y/n)");
                 string userInput = Console.ReadLine().ToLower();
                 if (userInput == "y")

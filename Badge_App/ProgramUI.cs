@@ -13,10 +13,12 @@ namespace Badge_App
 
         public void StartMenu()
         {
+            
             Seed();
             string userInput = "";
             while (userInput != "5")
             {
+                Console.Clear();
                 Console.WriteLine("Hello Security Admin, What would you like to do?\n" +
                     "1. Add a Badge\n" +
                     "2. Edit a Badge\n" +
@@ -26,24 +28,30 @@ namespace Badge_App
                 userInput = Console.ReadLine();
                 if (userInput == "1")
                 {
+                    Console.Clear();
                     Add();
                 }
                 else if (userInput == "2")
                 {
+                    Console.Clear();
                     Edit();
                 }
                 else if (userInput == "3")
                 {
+                    Console.Clear();
                     View();
                 }
                 else if (userInput == "4")
                 {
+                    Console.Clear();
                     Delete();
                 }
                 else if (userInput == "5")
                 {
-                    Console.WriteLine("Goodbye!");
-                    //call exit program method
+                    Console.WriteLine("Goodbye!\n");
+                    Console.WriteLine("Press any key to continue...");
+                    Console.ReadLine();
+
                 }
                 else
                 {
@@ -84,7 +92,7 @@ namespace Badge_App
 
         public void View()
         {
-            Console.WriteLine("Badge #\tDoor Access");
+            Console.WriteLine("Badge#\tDoor Access");
             foreach (int badgeID in br._badges.Keys)
             {
                 Badge badge = br._badges[badgeID];
@@ -95,6 +103,8 @@ namespace Badge_App
                 }
                 Console.WriteLine();
             }
+            Console.WriteLine("Press any key to continue...");
+            Console.ReadLine();
         }
         public void Edit()
         {
