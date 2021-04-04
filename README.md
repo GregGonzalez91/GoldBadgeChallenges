@@ -4,3 +4,4 @@ In this repository are three ConsoleApp challenges. To find out more about each 
 
 ## Challenges
 - [Cafe Challege](./Cafe_Challenge.md)
+- [Claims Challenge](./Claims_Challenge.md)
