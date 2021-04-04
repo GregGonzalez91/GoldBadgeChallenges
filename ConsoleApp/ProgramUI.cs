@@ -80,9 +80,9 @@ namespace Cafe_ConsoleApp
         }
         public void Seed()
         {
-            List<string> ingredients1 = new List<string> { "cheese", "pepperoni"};
+            List<string> ingredients1 = new List<string>(){ "cheese", "pepperoni"};
             Menu mi1 = new Menu(1, "pizza", "yes please", ingredients1, 10);
-            List<string> ingredients2 = new List<string> { "cheese", "beef patty", "buns"};
+            List<string> ingredients2 = new List<string>(){ "cheese", "beef patty", "buns"};
             Menu mi2 = new Menu(2, "Cheeseburger", "Why not", ingredients2, 7);
             mr.Add(mi1);
             mr.Add(mi2);
