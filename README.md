@@ -1,0 +1,8 @@
+# Gold Badge Challenges
+
+In this repository are three ConsoleApp challenges. To find out more about each challenge click the following links. 
+
+## Challenges
+- [Cafe Challege](./Cafe_Challenge.md)
+- [Claims Challenge](./Claims_Challenge.md)
+- [Badge Challenge](./Badge_Challenge.md)
